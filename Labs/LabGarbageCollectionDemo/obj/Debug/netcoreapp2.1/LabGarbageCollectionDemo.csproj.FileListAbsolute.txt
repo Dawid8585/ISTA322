@@ -1,0 +1,11 @@
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\obj\Debug\netcoreapp2.1\LabGarbageCollectionDemo.csprojAssemblyReference.cache
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\obj\Debug\netcoreapp2.1\LabGarbageCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\obj\Debug\netcoreapp2.1\LabGarbageCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\obj\Debug\netcoreapp2.1\LabGarbageCollectionDemo.AssemblyInfo.cs
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\bin\Debug\netcoreapp2.1\LabGarbageCollectionDemo.deps.json
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\bin\Debug\netcoreapp2.1\LabGarbageCollectionDemo.runtimeconfig.json
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\bin\Debug\netcoreapp2.1\LabGarbageCollectionDemo.runtimeconfig.dev.json
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\bin\Debug\netcoreapp2.1\LabGarbageCollectionDemo.dll
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\bin\Debug\netcoreapp2.1\LabGarbageCollectionDemo.pdb
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\obj\Debug\netcoreapp2.1\LabGarbageCollectionDemo.dll
+C:\Users\perko\ista322\Labs\LabGarbageCollectionDemo\obj\Debug\netcoreapp2.1\LabGarbageCollectionDemo.pdb

@@ -1,0 +1,40 @@
+
+/*
+Author: Dawid Perkowski
+Name: stylesheet.css
+
+*/
+
+body 
+{
+ text-align: center;
+ background-color: #fbceb1;
+ color: #0000FF;
+}
+.buttonoff
+{
+	border: red 3px outset;
+	color: yellow;
+	background-color: black;
+	padding: 4px;
+	width: 96px;
+	text-align: center;
+
+}
+.buttonon
+{
+	border: red 3px outset;
+	color: yellow;
+	background-color: black;
+	padding: 4px;
+	width: 96px;
+	text-align: center;
+}
+header {
+	background-color: #40E0D0;
+	padding: 30px;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+

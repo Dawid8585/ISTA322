@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "roulette/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "runtime": {
+          "roulette.dll": {}
+        }
+      },
+      "Microsoft.NETCore.UniversalWindowsPlatform/6.2.9": {}
+    }
+  },
+  "libraries": {
+    "roulette/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.UniversalWindowsPlatform/6.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QcNHcEvhO0bMhF1LW7Ebn1f6wrzvbkloRsZSrAZsGbAAqdhmfuZcD3VVeVCL8VWsBXRlhdb3+0Y7HLxvnMTpZA==",
+      "path": "microsoft.netcore.universalwindowsplatform/6.2.9",
+      "hashPath": "microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512"
+    }
+  }
+}

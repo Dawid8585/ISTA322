@@ -1,0 +1,40 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title> PRactice </title>
+    <style>
+        body {
+            background-color: darkseagreen;
+            text-align: center;
+            text-emphasis-color: darkorange;
+            text-decoration-color: yellow;
+            color: purple;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-display: auto
+        }
+    </style>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyView</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <div>
+        <h1>  Hello MARDI GRAS!</h1>
+        @ViewBag.Greeting
+        <p>
+            We're going to have an exciting party.<br />
+            (To do: sell it better. Add pictures or something.)
+        </p>
+        <a asp-action="RsvpForm">RSVP Now</a>
+        </div>
+        <div class="text-center">
+            <h3>We're going to have an exciting party!</h3>
+            <h4>And you are invited</h4>
+            <a class="btn btn-primary" asp-action="RsvpForm">RSVP Now</a>
+
+        </div>
+</body>
+</html>

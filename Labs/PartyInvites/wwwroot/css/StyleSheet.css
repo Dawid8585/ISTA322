@@ -1,0 +1,32 @@
+﻿
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #ff0000;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #ff6a00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+.MyView {
+    background-color: darkseagreen;
+    text-align: center;
+    text-emphasis-color: darkorange;
+    text-decoration-color: yellow;
+    color: purple;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-display: auto
+}
+

@@ -1,0 +1,10 @@
+C:\Users\perko\ista322\Exercises\roulette\bin\Debug\netcoreapp2.1\roulette.deps.json
+C:\Users\perko\ista322\Exercises\roulette\bin\Debug\netcoreapp2.1\roulette.runtimeconfig.json
+C:\Users\perko\ista322\Exercises\roulette\bin\Debug\netcoreapp2.1\roulette.runtimeconfig.dev.json
+C:\Users\perko\ista322\Exercises\roulette\bin\Debug\netcoreapp2.1\roulette.dll
+C:\Users\perko\ista322\Exercises\roulette\bin\Debug\netcoreapp2.1\roulette.pdb
+C:\Users\perko\ista322\Exercises\roulette\obj\Debug\netcoreapp2.1\roulette.csprojAssemblyReference.cache
+C:\Users\perko\ista322\Exercises\roulette\obj\Debug\netcoreapp2.1\roulette.AssemblyInfoInputs.cache
+C:\Users\perko\ista322\Exercises\roulette\obj\Debug\netcoreapp2.1\roulette.AssemblyInfo.cs
+C:\Users\perko\ista322\Exercises\roulette\obj\Debug\netcoreapp2.1\roulette.dll
+C:\Users\perko\ista322\Exercises\roulette\obj\Debug\netcoreapp2.1\roulette.pdb
